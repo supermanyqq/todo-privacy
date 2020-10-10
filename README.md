@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/supermanyqq/todo-privacy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 隐私政策
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Todo 是一个用于快速创建待办事项的App。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Todo 收集的数据
 
-```markdown
-Syntax highlighted code block
+简而言之，Todo 应用程序本身不会收集您的任何数据。
 
-# Header 1
-## Header 2
-### Header 3
+但是您应该谨慎地对待一些可能会请求您数据的 API，例如位置、日历和提醒。
 
-- Bulleted
-- List
+您所有隐私信息永远保留在您的设备上，我们无法控制它。
 
-1. Numbered
-2. List
+#### 本隐私政策的变更
 
-**Bold** and _Italic_ and `Code` text
+我们可能会不时地更新我们的隐私政策。因此，建议您定期查看此页面以了解更新后的内容。我们会通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在此页面上发布后立即生效。
 
-[Link](url) and ![Image](src)
-```
+#### 联系我们
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/supermanyqq/todo-privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果您对我们的隐私政策有任何疑问或建议，请随时通过 supermanyqq@163.com 与我们联系。
